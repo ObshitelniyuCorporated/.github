@@ -1,2 +1,2 @@
 # .github
-meme organization
+We are meme organization
